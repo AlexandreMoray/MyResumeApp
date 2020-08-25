@@ -1,0 +1,94 @@
+{
+  "about": "About me",
+  "experience": "Experience",
+  "education": "Education",
+  "skills": "My Skills",
+  "contact": "Contact me",
+  "certifications": "certifications",
+  "speakingLanguages": "Languages",
+  "french": {
+    "name": "french",
+    "level": "native"
+  },
+  "english": {
+    "name": "english",
+    "level": "C1"
+  },
+  "spanish": {
+    "name": "spanish",
+    "level": "B2"
+  },
+  "native": "native",
+  "navigate": "Navigate",
+  "miscellaneous": "miscellaneous",
+  "presentation": [
+    "As a very creative person, autonomous learning has always been a powerful way to teach myself how to create videos, photos, games: with a computer and some passion, nothing is impossible.",
+    "This is how I have been fascinated by computer sciences through its ability to challenge the limits of nowadays society. To me, curiosity is the key to learning and mastering new technologies, as well as their application domains.",
+    "These convictions guided me here and push me every day to strengthen my knowledge. I am particularly fond of anything related to the web and hope to discover new technical and social aspects of the developer world.",
+    "Thanks to my training and experiences, I can position myself as a FullStack developer using DevOps and following agile methods. I still feed my curiosity with some personal projects and wish to get the opportunity to start my career and discover a new company ecosystem."
+  ],
+  "experiences": [
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "Takima",
+      "description": [
+        "While finishing my studies, I did an internship at Takima, a service company that puts a lot of efforts in making consultants strong technically. I had the opportunity to receive a complete 8 weeks formation about backend, frontend, devops and agile concepts, both theoretically and practically.",
+        "Thereafter I joined Jawg Maps, a french start-up making cartography services competing with Google Maps for B2B. I spent most of my time building their documentation site from scratch, which is now available at jawg.io/docs"
+      ],
+      "location": "Bagneux, France",
+      "date": "February - September 2020",
+      "logo": "Takima.png"
+    },
+    {
+      "title": "Blockchain Study project",
+      "company": "Talan Labs",
+      "description": "With a team of colleagues from my school, we joined the innovation branch of Talan during a few months. We built a meetup platform based on the blockchain to permit the management of events, while adding a reliable reputation system of users in order to curb absenteeism.",
+      "location": "Paris 16, France",
+      "date": "September - December 2019",
+      "logo": "Talan.png"
+    },
+    {
+      "title": "Angular Web Developer Intern",
+      "company": "Relief Applications",
+      "description": "Relief Applications mission is to provide innovative solutions for humanitarian organizations all over the world. I spent 5 months mostly working on the front-end of a Beneficiary Management Platform that aims to facilitate the management of beneficiaries in developing countries, for the PIN organization.",
+      "location": "Madrid, Spain",
+      "date": "August - December 2018",
+      "logo": "ReliefApps.png"
+    }
+  ],
+  "educations": [
+    {
+      "title": "General engineering program",
+      "company": "EPF: École d' ingénieur-e-s",
+      "description": "Currently completing my fifth year of study at EPF through the Majoring in Engineering & Digital Technologies. Graduation expected in end of 2020.",
+      "location": "Sceaux, France",
+      "date": "2015 - 2020",
+      "logo": "EPF.png"
+    }
+  ],
+  "certifs": [
+    {
+      "title": "OCA: Oracle Certified Associate",
+      "company": "Oracle",
+      "description": "Official certification demonstrating a foundational understanding of Java.",
+      "location": "International",
+      "date": "2020",
+      "logo": "OCA.png"
+    }
+  ],
+  "skillSections": {
+    "front": "Front-End",
+    "back": "Back-End",
+    "devOps": "Dev Ops",
+    "mobile": "Mobile",
+    "other": "Other skills"
+  },
+  "soft": "Soft Skills",
+  "softSkills": [
+    { "name": "Team work"},
+    { "name": "Good listener"},
+    { "name": "Curiosity"},
+    { "name": "Sense of humor"},
+    { "name": "adaptability"}
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "about": "à propos",
+  "experience": "Expérience",
+  "education": "Education",
+  "skills": "Compétences",
+  "contact": "Contactez-moi",
+  "certifications": "certifications",
+  "speakingLanguages": "Langues",
+  "french": {
+    "name": "français",
+    "level": "natif"
+  },
+  "english": {
+    "name": "anglais",
+    "level": "C1"
+  },
+  "spanish": {
+    "name": "espagnol",
+    "level": "B2"
+  },
+  "navigate": "Un coup d'oeil",
+  "miscellaneous": "miscellaneous",
+  "presentation": [
+    "De nature très créative, je suis un fervent défenseur de l'apprentissage autonome qui m'a longtemps permis de me former sur internet à monter des vidéos, faire du graphisme, réaliser des musiques, des jeux : un ordinateur et de la passion, pas de besoin de plus !",
+    "C'est ainsi que le potentiel de l'informatique pour repousser les limites du réel dans la société actuelle me fascine. C'est pour moi la curiosité envers les nouvelles technologies et leurs domaines d'applications qui est au cœur de l'apprentissage et de la maîtrise.",
+    "J'ai adopté cette philosophie durant mes études d'ingénieur et m'accompagne maintenant au quotidien chez Takima pour renforcer mes connaissances. Je suis particulièrement passionné par tout ce qui touche au web et reste en quête de découverte des nombreuses facettes techniques et sociales du métier de développeur.",
+    "Mes formations et expériences me permettent d'ores et déjà de me distinguer en tant que développeur FullStack dans un contexte DevOps tout en suivant les méthodes agiles. Je continue de nourrir ma curiosité avec différents projets et suis maintenant dans l'attente d'une mission qui saura me lancer dans ma carrière et me faire découvrir un nouvel écosystème d'entreprise."
+  ],
+  "experiences": [
+    {
+      "title": "Développeur FullStack (Stage)",
+      "company": "Takima",
+      "description": [
+        "J'ai réalisé mon stage de fin d'études en interne chez Takima, une ESN qui met un point d'honneur à former des consultants compétents. J'ai ainsi suivi une formation intensive durant 8 semaines sur une multitude de sujets Back, Front, Devops et Agiles, aussi bien par la théorie que la pratique.",
+        "J'ai par la suite eu l'opportunité de rejoindre Jawg Maps, une start-up proposant des services de cartographie, et qui se positionne comme concurrente de Google Maps pour le B2B. En plus de quelques features front-end, j'ai eu l'opportunité de réaliser leur site statique de documentation from scratch, que l'on peut maintenant retrouver sur jawg.io/docs"
+      ],
+      "location": "Bagneux, France",
+      "date": "Février - Septembre 2020",
+      "logo": "Takima.png"
+    },
+    {
+      "title": "Projet d'étude en Blockchain",
+      "company": "Talan Labs",
+      "description": "J'ai réalisé avec plusieurs camarades de mon école un projet au sein de la branche innovation de la société Talan. Nous avons donc réalisé une plateforme web d'événementiel basée sur la blockchain, permettant d'organiser et de s'inscrire à des meetups tout en intégrant un système de réputation fiable des utilisateurs afin de limiter l'absentéisme.",
+      "location": "Paris 16, France",
+      "date": "September - December 2019",
+      "logo": "Talan.png"
+    },
+    {
+      "title": "Développeur web (Stage)",
+      "company": "Relief Applications",
+      "description": "Relief Applications est une entreprise spécialisée dans la réalisation de solutions informatiques au service du domaine humanitaire. Durant mon stage, j'ai eu l'occasion de participer au développement de BMS : Benificiary Management System. Cette application web visait à permettre aux membres de l'ONG tchèque PIN (People In Need) de gérer l'ensemble des bénéficiaires potentiels d'une aide dans leur pays d'origine, aussi bien depuis leurs bureaux que sur le terrain.",
+      "location": "Madrid, Espagne",
+      "date": "Août - Décembre 2018",
+      "logo": "ReliefApps.png"
+    }
+  ],
+  "educations": [
+    {
+      "title": "École d'ingénieurs Généraliste",
+      "company": "EPF: École d' ingénieur-e-s",
+      "description": "Diplomé de l'EPF, une école d'ingénieur-e-s généralistes où j'ai réalisé mes études durant 5 ans dont deux années au sein de la spécialisation informatique.",
+      "location": "Sceaux, France",
+      "date": "2015 - 2020",
+      "logo": "EPF.png"
+    }
+  ],
+  "certifs": [
+    {
+      "title": "OCA: Oracle Certified Associate",
+      "company": "Oracle",
+      "description": "Certification officielle correspondant au niveau Java de base.",
+      "location": "International",
+      "date": "2020",
+      "logo": "OCA.png"
+    }
+  ],
+  "skillSections": {
+    "front": "Front-End",
+    "back": "Back-End",
+    "devOps": "Dev Ops",
+    "mobile": "Mobile",
+    "other": "Autre"
+  },
+  "softSkills": [
+    { "name": "Esprit d'équipe"},
+    { "name": "A l'écoute"},
+    { "name": "Curiosité"},
+    { "name": "Sens de l'humour"},
+    { "name": "Adaptabilité"}
+  ]
+}
