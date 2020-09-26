@@ -16,7 +16,10 @@
     <div id="content" v-bind:class="{toggledInMobile: this.mobileToggled}">
       <!-- Side Bar Content -->
       <div id="side-bar">
-        <LanguageSelector />
+        <span>
+          <DownloadButton />
+          <LanguageSelector />
+        </span>
         <Contact />
         <SpeakingLanguages />
         <Navigate :toggling="toggling"/>
@@ -37,10 +40,12 @@
   import Navigate from "../components/nav/Navigate";
   import ResumeContent from "../components/resume-content/ResumeContent";
   import MobileToggle from "../components/nav/MobileToggle";
+  import DownloadButton from "../components/nav/DownloadButton";
 
   export default {
     name: 'Resume',
     components: {
+      DownloadButton,
       MobileToggle,
       ResumeContent,
       Navigate,
@@ -157,6 +162,13 @@
       flex-direction: column;
       justify-content: space-evenly;
       align-items: center;
+
+      span {
+        width: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+      }
     }
   }
 
