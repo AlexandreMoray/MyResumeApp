@@ -25,6 +25,7 @@ const SKILLS = [
             {name: "Java", version: "11", level: LEVELS.advanced, logo: "java.png"},
             {name: "Spring Boot", version: "2.3", level: LEVELS.advanced, logo: "springboot.png"},
             {name: "Spring", version: "5", level: LEVELS.good, logo: "spring.png"},
+            {name: "Quarkus", version: "2.12", level: LEVELS.good, logo: "quarkus.png"},
             {name: "Hibernate", version: "5.3", level: LEVELS.good, logo: "hibernate.png"},
             {name: "PostgreSQL", version: "", level: LEVELS.good, logo: "postgresql.webp"},
             {name: "MySQL", version: "", level: LEVELS.good, logo: "mysql.webp"},
@@ -33,8 +34,8 @@ const SKILLS = [
             {name: "ArangoDB", version: "3.6", level: LEVELS.good, logo: "arango.png"},
             {name: "RabbitMQ", version: "3.8", level: LEVELS.good, logo: "rabbitmq.webp"},
             {name: "NodeJS", version: "12", level: LEVELS.good, logo: "nodejs.png"},
+            {name: "Kotlin", version: "1.3", level: LEVELS.basic, logo: "kotlin.png"},
             {name: "C", version: "C11", level: LEVELS.basic, logo: "C.webp"},
-            {name: "Solidity", version: "0.6", level: LEVELS.basic, logo: "solidity.png"},
         ]
     },
     {
@@ -48,13 +49,7 @@ const SKILLS = [
             { name: "Flyway DB", version: "", level: LEVELS.good, logo: "flyway.png" },
             { name: "NPM", version: "", level: LEVELS.good, logo: "npm.png" },
             { name: "Maven", version: "", level: LEVELS.good, logo: "maven.png" },
-        ]
-    },
-    {
-        titleKey: "mobile",
-        list: [
-            {name: "Kotlin", version: "1.3", level: LEVELS.good, logo: "kotlin.png"},
-            {name: "Android Studio", version: "4", level: LEVELS.basic, logo: "androidstudio.png"},
+            { name: "AWS", version: "", level: LEVELS.basic, logo: "AWS.png" },
         ]
     },
     {
@@ -62,6 +57,7 @@ const SKILLS = [
         list: [
             {name: "Trello", level: LEVELS.good, logo: "trello.png"},
             {name: "Jira", level: LEVELS.good, logo: "jira.png"},
+            {name: "Confluence", level: LEVELS.good, logo: "confluence.webp"},
             {name: "Scrum", level: LEVELS.good, logo: "scrum.png"},
             {name: "Kanban", level: LEVELS.good, logo: "kanban.png"},
             {name: "Linux", level: LEVELS.good, logo: "linux.png"},

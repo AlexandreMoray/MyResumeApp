@@ -23,6 +23,7 @@
         <Contact />
         <SpeakingLanguages />
         <Navigate :toggling="toggling"/>
+        <MyProjects/>
         <div class="more"></div>
       </div>
       <!-- Main Content -->
@@ -38,6 +39,7 @@
   import SpeakingLanguages from "../components/nav/SpeakingLanguages";
   import LanguageSelector from "../components/nav/LanguageSelector";
   import Navigate from "../components/nav/Navigate";
+  import MyProjects from "../components/nav/MyProjects";
   import ResumeContent from "../components/resume-content/ResumeContent";
   import MobileToggle from "../components/nav/MobileToggle";
   import DownloadButton from "../components/nav/DownloadButton";
@@ -49,6 +51,7 @@
       MobileToggle,
       ResumeContent,
       Navigate,
+      MyProjects,
       LanguageSelector,
       SpeakingLanguages,
       Contact,

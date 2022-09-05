@@ -21,22 +21,27 @@
   },
   "navigate": "Un coup d'oeil",
   "miscellaneous": "miscellaneous",
+  "myProjects": "Mes projets",
+  "projects": {
+    "snake": "Jouez à mon 'Snake Reloaded'"
+  },
   "presentation": [
     "De nature très créative, je suis un fervent défenseur de l'apprentissage autonome qui m'a longtemps permis de me former sur internet à monter des vidéos, faire du graphisme, réaliser des musiques, des jeux : un ordinateur et de la passion, pas de besoin de plus !",
     "C'est ainsi que le potentiel de l'informatique pour repousser les limites du réel dans la société actuelle me fascine. C'est pour moi la curiosité envers les nouvelles technologies et leurs domaines d'applications qui est au cœur de l'apprentissage et de la maîtrise.",
     "J'ai adopté cette philosophie durant mes études d'ingénieur et elle m'accompagne maintenant au quotidien chez Takima pour renforcer mes connaissances. Je suis particulièrement passionné par tout ce qui touche au web et reste en quête de découverte des nombreuses facettes techniques et sociales du métier de développeur.",
-    "Mes formations et expériences me permettent d'ores et déjà de me distinguer en tant que développeur FullStack dans un contexte DevOps tout en suivant les méthodes agiles. Je continue de nourrir ma curiosité avec différents projets et suis maintenant prêt à rejoindre une mission qui saura me faire découvrir un nouvel écosystème d'entreprise."
+    "Mes formations et expériences me permettent d'ores et déjà de me distinguer en tant que développeur FullStack dans un contexte DevOps tout en suivant les méthodes agiles. Je continue de nourrir ma curiosité avec différents projets et missions."
   ],
   "experiences": [
     {
-      "title": "Développeur FullStack (Stage)",
+      "title": "Développeur FullStack",
       "company": "Takima",
       "description": [
         "J'ai réalisé mon stage de fin d'études en interne chez Takima, une ESN qui met un point d'honneur à former des consultants compétents. J'ai ainsi suivi une formation intensive durant 8 semaines sur une multitude de sujets Back, Front, Devops et Agiles, aussi bien par la théorie que la pratique.",
-        "J'ai par la suite eu l'opportunité de rejoindre Jawg Maps, une start-up proposant des services de cartographie, et qui se positionne comme concurrente de Google Maps pour le B2B. En plus de quelques features front-end, j'ai eu l'opportunité de réaliser leur site statique de documentation from scratch, que l'on peut maintenant retrouver sur jawg.io/docs"
+        "J'ai par la suite eu l'opportunité de rejoindre Jawg Maps, une start-up proposant des services de cartographie, et qui se positionne comme concurrente de Google Maps pour le B2B. En plus de quelques features front-end, j'ai eu l'opportunité de réaliser leur site statique de documentation from scratch, que l'on peut maintenant retrouver sur jawg.io/docs",
+        "J'ai ensuite effectué une première mission d'un an et demi qui m'a apporté de nombreuses compétences dans différentes technologies et processus. Je poursuis aujourd'hui ma deuxième mission en tant que développeur fullstack dans le secteur des énergies."
       ],
       "location": "Bagneux, France",
-      "date": "Février - Septembre 2020",
+      "date": "Février 2020 - Maintenant",
       "logo": "Takima.png"
     },
     {
