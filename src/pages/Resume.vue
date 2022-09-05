@@ -103,7 +103,7 @@
         height: $picture-size;
         border-radius: 100%;
         box-sizing: border-box;
-        border: ($header-offset+1)/2 solid $main-grey;
+        border: calc(($header-offset + 1px) / 2) solid $main-grey;
       }
       .name {
         font-size: 3em;
